@@ -1,6 +1,6 @@
 # Mason脚本语言语法
 ## v1.0版本暂定为 命令式
-## 环境:C++11,Python>3.5,暂时只支持Mac OS,不支持windows
+## 环境:C++11,Python>3.5,暂时只支持Mac OS与Linux,不支持windows
 ### 缩进写法 末尾";"可有可无
 ### 基本命令
 ### 关键字: click
