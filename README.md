@@ -2,6 +2,7 @@
 ## v1.0版本暂定为 命令式
 ## 环境:C++11,Python>3.5,暂时只支持Mac OS与Linux,不支持windows
 ### 缩进写法 末尾";"可有可无
+![avatar](img.png)
 ### 基本命令
 ### 关键字: click
 #### 用法:click(1000,1000);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在桌面上点击某一点
@@ -28,7 +29,7 @@
 ### 取消for循环
 ### 变量的声明和函数调用在v2.0,并提供Mason语言标准库
 ### 最好用记事本写,编辑器在打造中
-![avatar](img.png)
+
 
 
 
